@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_version" translatable="false">0.20.5.1</string>
+    <string name="database_version_label" translatable="false">Database version: </string>
+    <string name="copyright" translatable="false">Copyright(c) 2022 - IT SOURCE CODE - All rights reserved.</string>
+    <string name="author" translatable="false">Jude Suarez</string>
+    <string name="opensource_label" translatable="false">Open-source URL: </string>
+    <string name="opensource_url" translatable="false">https://itsourcecode.com</string>
+    <string name="email_label" translatable="false">Contact the developer:</string>
+    <string name="email_url" translatable="false">suarez081119@gmail.com</string>
+
+</resources>
